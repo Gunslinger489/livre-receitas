@@ -6,3 +6,4 @@ Olá, Bem vindo ao livro de receitas! :wave:
 * Pavê de Chocolate
 * Bolo de Cenoura
 
+Novas receitas serão adicionadas em breve!
